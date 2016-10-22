@@ -21,5 +21,9 @@
   "homepage": "https://github.com/benerone/auditor#readme",
   "devDependencies": {
     "electron": "^1.4.4"
+  },
+  "dependencies": {
+    "riot": "^2.6.4",
+    "riotcontrol": "0.0.3"
   }
 }
