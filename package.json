@@ -23,6 +23,8 @@
     "electron": "^1.4.4"
   },
   "dependencies": {
+    "bootstrap": "^3.3.7",
+    "jquery": "^1.9.1",
     "riot": "^2.6.4",
     "riotcontrol": "0.0.3"
   }
