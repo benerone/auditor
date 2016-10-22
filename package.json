@@ -24,6 +24,7 @@
   },
   "dependencies": {
     "bootstrap": "^3.3.7",
+    "i18next": "^3.4.4",
     "jquery": "^1.9.1",
     "riot": "^2.6.4",
     "riotcontrol": "0.0.3"
